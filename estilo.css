@@ -1,0 +1,17 @@
+body {
+    background-color: forestgreen;
+}
+
+.BOLSONARO2026 {
+    width: 200px;
+}
+
+/* Classe para configuração de fonte */
+.fonte {
+    color: yellow;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+marquee{
+    text-align: start;
+}
